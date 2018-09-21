@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CustomTools>
+  <Menu>
+    <Submenu name="Spots Functions">
+      <Item name="Plot all tracks with a common origin" icon="Matlab" tooltip="Graph tracks in Surpass Spots or Surfaces with a common origin.">
+        <Command>MatlabExe::plottrackscommonorigin %i</Command>
+      </Item>
+    </Submenu>
+    <Submenu name="Surfaces Functions">
+      <Item name="Plot all tracks with a common origin" icon="Matlab" tooltip="Graph tracks in Surpass Spots or Surfaces with a common origin.">
+        <Command>MatlabExe::plottrackscommonorigin %i</Command>
+      </Item>
+    </Submenu>
+  </Menu>
+  <SurpassTab>
+    <SurpassComponent name="bpSpots">
+      <Item name="Plot all tracks with a common origin" icon="Matlab" tooltip="Graph tracks in Surpass Spots or Surfaces with a common origin.">
+        <Command>MatlabExe::plottrackscommonorigin %i</Command>
+      </Item>
+    </SurpassComponent>
+    <SurpassComponent name="bpSurfaces">
+      <Item name="Plot all tracks with a common origin" icon="Matlab" tooltip="Graph tracks in Surpass Spots or Surfaces with a common origin.">
+        <Command>MatlabExe::plottrackscommonorigin %i</Command>
+      </Item>
+    </SurpassComponent>
+  </SurpassTab>
+</CustomTools>
