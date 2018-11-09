@@ -4,8 +4,6 @@ Description:
     This Imaris extension takes the tracked objects in Imaris and plots their respective 3-D paths
     from a common origin.  
 
-MATLAB Compiler
-
 Prerequisites:
 
     1)Verify the MATLAB Compiler Runtime (MCR) is installed and ensure you    
