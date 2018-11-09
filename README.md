@@ -1,7 +1,8 @@
 # Plot-Tracks-From-A-Common-Origin
 Description:
 
-    This Imaris extension takes the tracked objects in Imaris and plots their respective 3-D paths from a common origin.  
+    This Imaris extension takes the tracked objects in Imaris and plots their respective 3-D paths
+    from a common origin.  
 
 MATLAB Compiler
 
